@@ -1,2 +1,2 @@
 # repo-created-for-testing-purpose
---> Deleted the line.
+--> Deleted the line on October 25.
